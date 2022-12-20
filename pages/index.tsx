@@ -117,7 +117,7 @@ export default function Home({ posts }: Props) {
 
 </div>
 
-<div className=' bg-blue-800'>
+<div className=' bg-blue-700'>
   <a target="_blank" href="https://www.facebook.com/MDiitism/"><img className="w-6 h-6 md:w-8 md:h-8" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/640px-Facebook_f_logo_%282021%29.svg.png" ></img></a>
 </div>
 
